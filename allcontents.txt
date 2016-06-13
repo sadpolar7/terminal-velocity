@@ -1,0 +1,8 @@
+.
+..
+.git
+README.md
+allcontents.txt
+contents.txt
+joke.txt
+terminal-velocity

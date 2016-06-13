@@ -1,0 +1,6 @@
+allcontents.txt
+contents.txt
+date.txt
+joke.txt
+list-projects-directory.txt
+workingDirectory.txt
